@@ -1,4 +1,4 @@
-# 🎯 LexMatch Recommender
+# CLATConnect
 
 A simple, human-friendly AI/ML system that recommends the *right mentors* (CLAT toppers) to *law aspirants*, based on their preparation level, learning preferences, and interaction history. Built as part of my NLTI Internship Assignment.
 
