@@ -1,0 +1,51 @@
+Mentor ID,Specialization,College Attended,Years of Experience,Teaching Style,Past Success Rate,Rating,Availability,Number of Aspirants helped,Mentorship Style
+101,"['Legal Reasoning', 'Logical Reasoning']",NUJS Kolkata,5,Interactive,0.7770299886085709,4.1,Weekdays,50,['Personalized Guidance']
+102,['Quantitative Techniques'],NALSAR Hyderabad,10,Problem-solving,0.7920908073621264,4.4,Weekends,6,"['Concept Clarity', 'Test Strategy']"
+103,['English Comprehension'],NLIU Bhopal,10,Problem-solving,0.7646573855711185,4.8,Anytime,41,['Personalized Guidance']
+104,['English Comprehension'],NALSAR Hyderabad,9,Lecture-based,0.9605748409370187,4.7,Weekends,26,['Test Strategy']
+105,"['Logical Reasoning', 'Logical Reasoning']",NALSAR Hyderabad,7,Problem-solving,0.7129538409819824,4.6,Weekends,35,['Motivation']
+106,['Legal Reasoning'],GNLU Gandhinagar,10,Interactive,0.8983800824396279,4.9,Anytime,43,['Test Strategy']
+107,['English Comprehension'],GNLU Gandhinagar,9,Interactive,0.9162961784880701,3.6,Weekdays,36,['Concept Clarity']
+108,"['Logical Reasoning', 'General Knowledge']",NALSAR Hyderabad,3,Problem-solving,0.8064842176671421,3.6,Weekends,6,['Concept Clarity']
+109,"['Quantitative Techniques', 'Legal Reasoning']",NUJS Kolkata,5,Problem-solving,0.7391568368016302,3.9,Weekends,45,['Test Strategy']
+110,"['English Comprehension', 'Quantitative Techniques']",NLSIU Bangalore,6,Problem-solving,0.9165519726726401,3.9,Weekdays,9,['Personalized Guidance']
+111,"['English Comprehension', 'Logical Reasoning']",NUJS Kolkata,9,Lecture-based,0.9252624105325205,4.6,Anytime,34,['Concept Clarity']
+112,['Logical Reasoning'],NUJS Kolkata,3,Problem-solving,0.8275776188887881,5.0,Weekdays,17,"['Personalized Guidance', 'Motivation']"
+113,['Logical Reasoning'],GNLU Gandhinagar,1,Lecture-based,0.8299012432530676,5.0,Weekends,11,['Motivation']
+114,['Quantitative Techniques'],NLIU Bhopal,2,Problem-solving,0.8110321319541467,4.6,Weekends,42,"['Motivation', 'Personalized Guidance']"
+115,['Logical Reasoning'],NLIU Bhopal,10,Interactive,0.8802415979189597,4.1,Anytime,35,"['Test Strategy', 'Test Strategy']"
+116,['Legal Reasoning'],NLIU Bhopal,6,Problem-solving,0.9294277543564049,3.8,Anytime,43,"['Test Strategy', 'Test Strategy']"
+117,"['English Comprehension', 'Quantitative Techniques']",GNLU Gandhinagar,3,Lecture-based,0.7188772993430854,4.4,Anytime,27,"['Concept Clarity', 'Motivation']"
+118,['Logical Reasoning'],NUJS Kolkata,8,Interactive,0.869127143481452,4.1,Weekends,33,['Test Strategy']
+119,['Legal Reasoning'],NLIU Bhopal,2,Problem-solving,0.7037629421834055,4.6,Weekdays,8,"['Personalized Guidance', 'Concept Clarity']"
+120,['Logical Reasoning'],NLSIU Bangalore,10,Problem-solving,0.7083802727392209,4.0,Weekends,50,"['Test Strategy', 'Personalized Guidance']"
+121,['Legal Reasoning'],NALSAR Hyderabad,3,Interactive,0.9199882501732994,4.7,Weekdays,5,['Motivation']
+122,"['Legal Reasoning', 'English Comprehension']",GNLU Gandhinagar,1,Lecture-based,0.91262414165536,4.6,Anytime,10,"['Motivation', 'Personalized Guidance']"
+123,['General Knowledge'],NLIU Bhopal,2,Lecture-based,0.754465175369812,3.8,Weekends,25,['Personalized Guidance']
+124,['Legal Reasoning'],NUJS Kolkata,9,Problem-solving,0.8622880858767341,4.1,Weekdays,27,"['Concept Clarity', 'Personalized Guidance']"
+125,['General Knowledge'],NALSAR Hyderabad,4,Interactive,0.7840427183541686,4.2,Weekends,17,"['Test Strategy', 'Concept Clarity']"
+126,['Legal Reasoning'],NUJS Kolkata,6,Problem-solving,0.7332476839913032,3.6,Weekdays,33,['Motivation']
+127,['English Comprehension'],NLIU Bhopal,6,Interactive,0.8487819196346057,4.6,Weekdays,40,['Motivation']
+128,"['Quantitative Techniques', 'Quantitative Techniques']",NUJS Kolkata,5,Interactive,0.7040680221274499,4.2,Anytime,23,"['Test Strategy', 'Personalized Guidance']"
+129,['English Comprehension'],NALSAR Hyderabad,5,Interactive,0.8760607614874836,3.7,Anytime,42,"['Personalized Guidance', 'Concept Clarity']"
+130,['English Comprehension'],GNLU Gandhinagar,2,Lecture-based,0.724034788842641,4.7,Weekends,45,"['Concept Clarity', 'Concept Clarity']"
+131,"['General Knowledge', 'Legal Reasoning']",NLIU Bhopal,8,Problem-solving,0.9991482473391156,3.6,Weekdays,39,['Test Strategy']
+132,['English Comprehension'],NUJS Kolkata,1,Interactive,0.9368727061526516,4.3,Anytime,27,"['Personalized Guidance', 'Test Strategy']"
+133,['Legal Reasoning'],NLSIU Bangalore,8,Interactive,0.8405419655048214,3.8,Anytime,47,['Motivation']
+134,"['Legal Reasoning', 'English Comprehension']",NUJS Kolkata,6,Lecture-based,0.7348913008669569,3.5,Weekends,29,['Test Strategy']
+135,"['Logical Reasoning', 'General Knowledge']",NALSAR Hyderabad,8,Lecture-based,0.8934996949156575,4.7,Anytime,36,"['Concept Clarity', 'Test Strategy']"
+136,['Quantitative Techniques'],NUJS Kolkata,10,Problem-solving,0.9249723085313841,4.4,Anytime,11,"['Motivation', 'Personalized Guidance']"
+137,['English Comprehension'],GNLU Gandhinagar,3,Interactive,0.9287102070557377,4.8,Weekdays,42,"['Motivation', 'Concept Clarity']"
+138,['Logical Reasoning'],NUJS Kolkata,2,Problem-solving,0.8080996835478589,4.7,Weekdays,19,"['Motivation', 'Concept Clarity']"
+139,['Quantitative Techniques'],GNLU Gandhinagar,9,Interactive,0.905293829252902,5.0,Anytime,9,"['Personalized Guidance', 'Concept Clarity']"
+140,"['General Knowledge', 'English Comprehension']",GNLU Gandhinagar,7,Lecture-based,0.8948698933826353,3.6,Weekends,41,['Personalized Guidance']
+141,['English Comprehension'],NUJS Kolkata,7,Interactive,0.9859615536596658,4.7,Weekends,26,['Test Strategy']
+142,['General Knowledge'],GNLU Gandhinagar,3,Interactive,0.7527478153206326,4.3,Weekends,22,['Test Strategy']
+143,"['Quantitative Techniques', 'General Knowledge']",NUJS Kolkata,3,Interactive,0.7806250643936306,4.2,Weekends,13,['Personalized Guidance']
+144,['Quantitative Techniques'],NLSIU Bangalore,5,Problem-solving,0.8626299404421338,4.5,Weekdays,40,['Test Strategy']
+145,['Quantitative Techniques'],GNLU Gandhinagar,4,Lecture-based,0.7092366790613645,3.7,Weekdays,16,"['Test Strategy', 'Concept Clarity']"
+146,['English Comprehension'],GNLU Gandhinagar,3,Interactive,0.8003381717403731,4.6,Weekdays,36,"['Test Strategy', 'Test Strategy']"
+147,"['Legal Reasoning', 'Quantitative Techniques']",GNLU Gandhinagar,8,Lecture-based,0.9455342490039961,3.8,Anytime,12,"['Motivation', 'Personalized Guidance']"
+148,"['Legal Reasoning', 'Quantitative Techniques']",NUJS Kolkata,8,Lecture-based,0.9350208732576961,3.5,Weekdays,33,['Test Strategy']
+149,['General Knowledge'],NLIU Bhopal,2,Lecture-based,0.7903437584111132,4.7,Anytime,29,['Motivation']
+150,['Legal Reasoning'],NALSAR Hyderabad,9,Lecture-based,0.7773844793950132,3.7,Anytime,35,['Motivation']

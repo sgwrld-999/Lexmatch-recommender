@@ -1,0 +1,101 @@
+Aspirant ID,Location,Past Mock Test Scores,Time Commitment,Essay/Personal Statement,Pref_General Knowledge,Pref_English Comprehension,Pref_Quantitative Techniques,Pref_Legal Reasoning,Pref_Logical Reasoning,Target_NLSIU Bangalore,Target_GNLU Gandhinagar,Target_NLIU Bhopal,Target_NUJS Kolkata,Target_NALSAR Hyderabad,Prep_Level_Encoded,Learning_Auditory,Learning_Kinesthetic,Learning_Reading/Writing,Learning_Visual,Strength_General Knowledge,Strength_English Comprehension,Strength_Quantitative Techniques,Strength_Legal Reasoning,Strength_Logical Reasoning
+1,Delhi,"[78, 61, 126, 122, 125]",28,Looking to improve my Legal Reasoning skills,1,0,0,1,0,1,1,0,0,0,1,False,False,False,True,0.0,0.0,0.0,0.0,1.0
+2,Kolkata,"[96, 73, 82]",20,Looking to improve my General Knowledge skills,0,0,1,0,0,0,0,0,0,1,1,False,True,False,False,0.0,0.0,0.0,0.0,0.0
+3,Bangalore,"[106, 70, 90, 106]",17,Looking to improve my English Comprehension skills,1,1,0,0,0,1,0,0,0,0,2,False,False,False,True,1.0,0.0,0.0,0.0,0.0
+4,Kolkata,"[101, 80, 130, 140, 75, 139]",16,Looking to improve my Legal Reasoning skills,0,1,0,0,0,0,0,0,1,1,0,False,False,True,False,0.0,1.0,0.0,0.0,0.5
+5,Delhi,"[60, 60, 92, 126]",26,Looking to improve my Logical Reasoning skills,1,0,0,1,1,0,0,1,0,1,1,False,False,True,False,0.0,0.0,0.0,0.0,0.5
+6,Mumbai,"[73, 99, 118, 58, 147]",24,Looking to improve my Legal Reasoning skills,1,0,0,1,0,0,0,0,1,0,2,False,False,True,False,0.0,1.0,0.0,0.0,0.0
+7,Chennai,"[98, 122, 73, 72]",29,Looking to improve my Logical Reasoning skills,0,1,1,0,0,0,0,0,1,0,0,True,False,False,False,0.0,0.0,1.0,0.0,0.0
+8,Mumbai,"[97, 118, 103, 94, 128]",17,Looking to improve my Quantitative Techniques skills,0,1,0,0,0,0,0,0,1,0,0,False,True,False,False,0.5,0.0,0.0,1.0,1.0
+9,Chennai,"[123, 98, 144, 93]",11,Looking to improve my Legal Reasoning skills,1,1,1,0,0,1,0,0,0,0,2,True,False,False,False,0.0,1.0,0.0,0.0,0.0
+10,Delhi,"[150, 62, 52]",30,Looking to improve my Logical Reasoning skills,0,0,1,0,1,1,0,0,0,1,2,False,True,False,False,1.0,0.0,0.0,0.0,0.0
+11,Bangalore,"[125, 132, 120, 112]",29,Looking to improve my Quantitative Techniques skills,0,1,0,0,0,0,0,0,0,1,0,False,True,False,False,0.5,0.0,0.0,0.0,1.0
+12,Delhi,"[117, 81, 116, 78, 63, 132]",29,Looking to improve my Logical Reasoning skills,0,0,0,1,1,1,0,0,0,0,0,False,False,True,False,0.0,1.0,0.0,0.0,0.0
+13,Delhi,"[143, 51, 70, 52, 105]",30,Looking to improve my Legal Reasoning skills,1,0,1,1,0,0,1,0,0,1,1,False,False,True,False,0.0,0.0,1.0,0.0,0.0
+14,Delhi,"[68, 72, 131, 89, 134, 79]",14,Looking to improve my Quantitative Techniques skills,0,0,1,1,0,0,0,0,1,0,0,True,False,False,False,0.0,0.0,0.0,0.5,0.5
+15,Kolkata,"[84, 147, 135, 53, 103, 88]",26,Looking to improve my Quantitative Techniques skills,1,0,1,0,1,0,0,0,0,1,2,False,False,False,True,0.0,0.0,1.0,0.5,0.0
+16,Delhi,"[98, 93, 104]",19,Looking to improve my General Knowledge skills,1,0,1,0,0,1,0,1,0,0,2,False,True,False,False,0.0,1.0,0.0,0.0,0.0
+17,Chennai,"[116, 112, 57]",21,Looking to improve my Legal Reasoning skills,1,0,0,0,1,1,0,0,0,0,1,False,False,False,True,0.0,0.5,0.0,1.0,0.0
+18,Mumbai,"[113, 90, 132, 97, 96, 62]",27,Looking to improve my Logical Reasoning skills,0,1,0,1,1,1,0,0,1,0,0,False,False,True,False,0.0,0.0,1.0,0.0,0.0
+19,Bangalore,"[101, 98, 76, 139]",14,Looking to improve my Logical Reasoning skills,1,0,0,0,1,0,1,0,0,0,1,False,True,False,False,0.0,1.0,0.0,0.0,0.0
+20,Bangalore,"[124, 72, 132]",10,Looking to improve my Legal Reasoning skills,0,0,1,0,0,0,0,1,0,0,2,False,True,False,False,0.0,0.0,0.0,0.0,0.0
+21,Delhi,"[141, 144, 95, 51, 63, 64]",23,Looking to improve my General Knowledge skills,1,0,0,0,0,1,1,0,0,0,1,False,True,False,False,0.0,0.0,0.0,0.0,1.0
+22,Delhi,"[60, 141, 61, 68, 136]",16,Looking to improve my Logical Reasoning skills,1,1,1,0,0,0,0,1,0,0,2,False,True,False,False,0.0,0.5,0.0,0.0,0.0
+23,Kolkata,"[97, 99, 122, 121, 56]",15,Looking to improve my English Comprehension skills,1,0,1,0,1,1,0,0,1,0,1,False,False,False,True,0.5,0.0,0.0,0.5,0.0
+24,Delhi,"[72, 69, 69]",12,Looking to improve my Quantitative Techniques skills,0,0,0,1,0,1,0,0,0,0,1,True,False,False,False,0.0,0.5,0.0,0.0,1.0
+25,Mumbai,"[147, 142, 77, 68]",10,Looking to improve my General Knowledge skills,0,0,1,0,0,1,0,0,0,0,2,True,False,False,False,0.0,0.0,0.5,0.0,0.0
+26,Kolkata,"[143, 76, 120, 58]",25,Looking to improve my Quantitative Techniques skills,1,0,0,1,0,0,0,0,1,0,0,False,True,False,False,0.0,1.0,1.0,0.0,1.0
+27,Delhi,"[119, 90, 58, 51, 127]",26,Looking to improve my English Comprehension skills,1,0,0,0,0,0,0,0,1,0,1,True,False,False,False,1.0,0.0,0.0,0.0,0.0
+28,Chennai,"[99, 80, 105]",29,Looking to improve my General Knowledge skills,1,0,0,1,1,0,1,0,0,0,2,True,False,False,False,0.0,0.0,0.0,0.0,0.5
+29,Delhi,"[102, 58, 60]",23,Looking to improve my Legal Reasoning skills,0,1,1,0,0,0,1,0,0,0,0,False,False,True,False,0.5,1.0,0.0,0.0,0.0
+30,Bangalore,"[121, 51, 76]",11,Looking to improve my Logical Reasoning skills,0,1,0,1,1,1,0,0,0,1,1,True,False,False,False,1.0,0.5,0.0,0.0,0.0
+31,Bangalore,"[102, 144, 85, 89, 108, 112]",12,Looking to improve my English Comprehension skills,0,1,1,0,1,1,0,1,0,0,2,True,False,False,False,0.5,0.0,0.5,0.0,0.0
+32,Delhi,"[93, 109, 124]",24,Looking to improve my English Comprehension skills,0,1,1,1,0,1,0,0,0,0,2,False,True,False,False,1.0,1.0,0.0,0.0,0.0
+33,Chennai,"[136, 119, 68, 56, 65]",16,Looking to improve my Legal Reasoning skills,1,0,0,1,0,1,0,0,0,0,2,False,False,True,False,0.0,0.0,0.0,0.0,0.0
+34,Chennai,"[78, 110, 89, 104]",24,Looking to improve my General Knowledge skills,0,1,1,0,0,0,1,0,0,1,2,True,False,False,False,1.0,0.0,1.0,0.0,0.0
+35,Delhi,"[55, 73, 96, 79]",14,Looking to improve my Quantitative Techniques skills,1,0,0,1,0,1,1,0,0,0,2,True,False,False,False,1.0,0.0,0.0,0.0,0.5
+36,Delhi,"[108, 127, 139]",21,Looking to improve my Logical Reasoning skills,0,1,0,1,1,0,1,0,0,0,1,False,False,True,False,0.5,0.0,0.0,0.0,0.0
+37,Mumbai,"[120, 62, 115]",15,Looking to improve my Logical Reasoning skills,0,1,0,0,0,0,0,0,1,0,1,True,False,False,False,1.0,0.5,0.0,0.0,1.0
+38,Delhi,"[58, 122, 114, 68, 120]",28,Looking to improve my General Knowledge skills,0,0,0,1,0,0,1,0,0,0,0,True,False,False,False,0.0,0.5,0.0,0.0,1.0
+39,Mumbai,"[95, 62, 123]",15,Looking to improve my Logical Reasoning skills,0,0,0,1,1,0,1,1,0,0,1,True,False,False,False,1.0,0.5,0.0,0.5,0.0
+40,Bangalore,"[98, 119, 131, 133]",20,Looking to improve my General Knowledge skills,0,0,0,1,1,0,1,0,0,0,1,False,True,False,False,0.0,0.5,0.0,0.0,0.0
+41,Mumbai,"[87, 83, 54, 141, 122]",14,Looking to improve my English Comprehension skills,0,0,1,1,0,0,0,0,0,1,2,False,False,True,False,0.0,0.0,0.0,1.0,0.0
+42,Bangalore,"[85, 102, 114, 101]",12,Looking to improve my Logical Reasoning skills,1,0,0,0,0,1,1,0,0,0,2,False,False,False,True,0.5,0.0,0.0,1.0,1.0
+43,Chennai,"[120, 118, 133]",29,Looking to improve my Logical Reasoning skills,0,0,0,1,0,0,1,0,0,0,1,False,False,False,True,1.0,0.0,1.0,0.0,1.0
+44,Kolkata,"[72, 109, 123, 96, 69, 94]",26,Looking to improve my English Comprehension skills,0,1,0,0,0,0,1,0,0,1,0,True,False,False,False,0.0,0.0,0.0,0.0,0.0
+45,Delhi,"[74, 84, 135, 135, 122, 94]",28,Looking to improve my Legal Reasoning skills,0,1,1,0,0,0,0,1,0,1,0,False,True,False,False,1.0,0.5,0.0,0.0,0.0
+46,Chennai,"[143, 138, 138, 88, 86]",19,Looking to improve my Quantitative Techniques skills,0,0,0,0,1,0,0,0,0,1,0,False,False,False,True,0.0,0.0,0.0,0.5,0.0
+47,Kolkata,"[63, 97, 94]",20,Looking to improve my General Knowledge skills,0,0,0,0,1,1,0,0,0,0,0,False,False,True,False,1.0,0.0,1.0,0.0,0.0
+48,Bangalore,"[112, 67, 71, 115, 90]",23,Looking to improve my Quantitative Techniques skills,0,0,0,0,1,0,0,0,1,0,0,True,False,False,False,0.0,0.0,0.0,1.0,0.0
+49,Chennai,"[73, 111, 123, 67]",20,Looking to improve my General Knowledge skills,0,0,1,1,0,0,1,0,0,0,1,False,False,False,True,0.0,0.0,0.5,0.5,0.0
+50,Delhi,"[134, 109, 113, 136, 99]",26,Looking to improve my Legal Reasoning skills,0,1,0,1,0,1,0,0,0,0,0,False,False,False,True,0.0,0.5,0.0,1.0,0.0
+51,Bangalore,"[112, 67, 149, 86]",17,Looking to improve my General Knowledge skills,0,1,0,0,0,0,1,1,0,0,0,False,True,False,False,0.0,0.0,0.0,0.0,0.0
+52,Mumbai,"[146, 135, 118, 115, 113, 144]",25,Looking to improve my Quantitative Techniques skills,0,1,0,0,0,0,0,1,0,0,0,True,False,False,False,0.5,0.5,0.0,1.0,0.0
+53,Kolkata,"[60, 141, 91, 60]",18,Looking to improve my Logical Reasoning skills,0,0,0,1,1,1,1,0,0,0,0,True,False,False,False,0.0,0.0,0.5,1.0,0.0
+54,Chennai,"[94, 84, 59, 82, 135, 80]",15,Looking to improve my Logical Reasoning skills,0,1,1,0,0,0,0,1,1,0,1,True,False,False,False,0.0,1.0,0.0,0.0,0.0
+55,Delhi,"[123, 116, 109, 96]",23,Looking to improve my Legal Reasoning skills,1,0,0,0,1,0,1,0,0,1,2,True,False,False,False,0.0,0.0,0.0,0.0,1.0
+56,Chennai,"[50, 101, 60, 70]",21,Looking to improve my Legal Reasoning skills,0,1,0,1,0,0,1,0,0,0,1,False,True,False,False,0.0,0.0,0.0,0.0,0.0
+57,Delhi,"[98, 124, 72, 140, 147]",13,Looking to improve my Logical Reasoning skills,0,0,1,0,1,1,0,0,0,0,0,False,False,True,False,0.0,0.0,0.0,0.0,1.0
+58,Kolkata,"[80, 118, 83]",23,Looking to improve my Quantitative Techniques skills,1,0,0,0,1,0,0,0,0,1,0,False,False,True,False,0.0,0.0,0.5,1.0,0.0
+59,Delhi,"[77, 147, 128]",20,Looking to improve my English Comprehension skills,0,0,0,0,1,1,0,1,0,0,0,False,False,False,True,0.0,0.0,0.0,1.0,1.0
+60,Mumbai,"[126, 147, 126, 119, 82, 106]",26,Looking to improve my Legal Reasoning skills,1,0,0,1,1,1,0,0,0,0,2,True,False,False,False,0.0,0.5,0.0,0.0,0.0
+61,Mumbai,"[120, 139, 149, 130, 68, 55]",26,Looking to improve my Quantitative Techniques skills,0,0,0,1,0,1,1,0,0,0,2,False,False,False,True,0.0,0.5,0.0,0.0,0.0
+62,Delhi,"[80, 118, 142, 93, 69]",26,Looking to improve my General Knowledge skills,0,0,1,1,0,1,0,0,0,0,1,False,True,False,False,0.0,0.5,0.5,0.0,1.0
+63,Chennai,"[75, 78, 134]",16,Looking to improve my Legal Reasoning skills,0,0,0,1,0,0,1,1,0,0,0,True,False,False,False,0.5,0.0,0.0,0.0,0.0
+64,Kolkata,"[89, 55, 61, 139, 51]",19,Looking to improve my Quantitative Techniques skills,0,0,0,1,0,1,1,0,0,0,2,False,False,True,False,0.5,0.0,0.0,0.0,0.5
+65,Chennai,"[63, 67, 64, 142, 114, 120]",20,Looking to improve my General Knowledge skills,1,0,0,0,0,1,1,0,0,0,2,False,True,False,False,0.0,0.0,0.0,1.0,0.0
+66,Delhi,"[59, 139, 93, 150]",27,Looking to improve my General Knowledge skills,0,0,0,0,1,0,0,0,0,1,0,True,False,False,False,0.0,0.0,0.0,0.0,1.0
+67,Kolkata,"[50, 85, 55]",19,Looking to improve my Legal Reasoning skills,0,1,0,0,0,0,0,0,0,1,0,False,False,True,False,0.0,0.0,0.0,0.0,1.0
+68,Kolkata,"[108, 130, 79, 106]",14,Looking to improve my Legal Reasoning skills,0,1,0,0,0,0,0,0,1,0,0,False,False,True,False,0.0,0.5,0.0,0.5,0.0
+69,Kolkata,"[146, 60, 61, 109, 115]",29,Looking to improve my Logical Reasoning skills,0,1,0,1,0,0,1,0,0,1,2,True,False,False,False,1.0,0.0,0.0,0.0,1.0
+70,Mumbai,"[61, 142, 130, 109, 56, 92]",16,Looking to improve my Legal Reasoning skills,1,0,0,0,0,0,1,0,0,0,1,False,False,True,False,0.0,0.0,0.0,0.0,0.5
+71,Chennai,"[132, 57, 82, 89]",28,Looking to improve my Legal Reasoning skills,0,0,0,1,0,0,1,0,1,0,1,False,False,False,True,0.0,1.0,0.0,1.0,0.5
+72,Mumbai,"[81, 125, 68, 148, 83]",11,Looking to improve my Logical Reasoning skills,0,1,0,1,0,0,0,0,0,1,0,True,False,False,False,0.0,0.0,1.0,1.0,0.0
+73,Mumbai,"[134, 93, 55, 51]",23,Looking to improve my Quantitative Techniques skills,1,0,0,0,0,1,0,0,0,1,0,False,True,False,False,0.5,0.0,1.0,0.0,0.0
+74,Bangalore,"[56, 149, 128, 53, 96, 60]",19,Looking to improve my Logical Reasoning skills,1,0,0,0,0,1,1,0,0,0,1,False,False,True,False,0.0,0.0,0.0,0.0,0.0
+75,Bangalore,"[75, 149, 142, 65, 96]",16,Looking to improve my General Knowledge skills,1,0,0,0,0,0,0,0,0,1,0,False,False,False,True,1.0,0.0,0.0,1.0,0.5
+76,Bangalore,"[131, 150, 91]",28,Looking to improve my Legal Reasoning skills,1,1,1,0,0,0,0,1,1,0,1,False,False,True,False,1.0,1.0,0.0,0.0,0.0
+77,Bangalore,"[107, 73, 120, 73, 82]",29,Looking to improve my Logical Reasoning skills,0,0,0,0,1,0,0,1,0,0,0,False,False,False,True,0.0,0.0,1.0,0.0,0.0
+78,Bangalore,"[117, 69, 70, 81, 65]",22,Looking to improve my General Knowledge skills,0,0,1,0,0,1,0,0,0,0,1,False,True,False,False,0.0,0.0,0.0,0.5,0.5
+79,Mumbai,"[91, 90, 87, 100]",16,Looking to improve my General Knowledge skills,0,0,0,1,0,0,1,0,0,0,2,False,False,True,False,0.0,0.5,0.0,0.5,0.5
+80,Bangalore,"[64, 107, 90, 118, 130, 109]",15,Looking to improve my English Comprehension skills,1,0,0,0,0,0,0,0,0,1,1,False,True,False,False,0.0,0.0,0.0,1.0,0.0
+81,Kolkata,"[149, 50, 80]",11,Looking to improve my Legal Reasoning skills,1,0,1,0,0,0,1,0,0,0,1,False,True,False,False,0.5,0.0,0.0,0.0,0.5
+82,Kolkata,"[65, 120, 130, 56, 113, 57]",30,Looking to improve my Quantitative Techniques skills,0,0,0,1,1,0,0,0,1,0,2,False,False,False,True,0.0,0.0,1.0,0.0,0.0
+83,Kolkata,"[61, 135, 95, 98, 96, 62]",18,Looking to improve my Quantitative Techniques skills,0,1,0,0,0,0,0,1,0,0,1,False,True,False,False,0.0,0.0,1.0,0.0,0.5
+84,Mumbai,"[64, 145, 111, 129, 53, 138]",11,Looking to improve my General Knowledge skills,1,1,1,0,0,1,0,0,0,0,2,True,False,False,False,0.0,0.5,0.0,1.0,0.0
+85,Chennai,"[131, 140, 93, 110]",10,Looking to improve my Logical Reasoning skills,1,0,1,0,0,0,0,0,1,0,0,True,False,False,False,0.0,0.0,0.0,1.0,0.5
+86,Mumbai,"[112, 136, 129, 65]",26,Looking to improve my Legal Reasoning skills,1,0,0,0,0,0,0,0,0,1,0,False,False,False,True,0.0,0.0,0.0,0.0,0.0
+87,Mumbai,"[60, 109, 131, 97]",26,Looking to improve my English Comprehension skills,0,0,0,1,0,0,1,0,0,0,0,True,False,False,False,1.0,0.5,0.0,0.0,0.0
+88,Chennai,"[99, 61, 144, 127]",25,Looking to improve my English Comprehension skills,1,0,0,1,0,1,0,0,0,0,2,True,False,False,False,0.0,0.5,0.5,0.0,0.0
+89,Chennai,"[150, 100, 146, 150, 50]",21,Looking to improve my English Comprehension skills,0,0,1,0,0,1,0,0,0,1,2,True,False,False,False,0.0,0.0,0.5,1.0,1.0
+90,Mumbai,"[109, 56, 133, 95, 76]",23,Looking to improve my Quantitative Techniques skills,0,1,0,0,0,1,0,1,0,0,1,False,False,False,True,0.0,0.0,1.0,0.0,0.0
+91,Delhi,"[73, 119, 121]",11,Looking to improve my General Knowledge skills,1,0,1,0,0,0,1,0,0,1,2,True,False,False,False,0.0,0.0,0.5,0.0,1.0
+92,Bangalore,"[62, 82, 101, 90]",23,Looking to improve my Logical Reasoning skills,0,0,0,1,0,0,0,0,1,1,0,False,True,False,False,0.0,0.0,0.0,0.0,0.0
+93,Delhi,"[117, 137, 117, 53]",30,Looking to improve my Quantitative Techniques skills,0,0,0,0,1,0,0,0,0,1,1,False,False,True,False,0.0,1.0,0.0,0.0,0.5
+94,Chennai,"[141, 122, 93, 129, 139]",11,Looking to improve my English Comprehension skills,1,1,0,0,1,1,0,0,1,0,1,False,False,True,False,1.0,0.0,0.0,0.0,0.0
+95,Chennai,"[76, 130, 132, 58, 112]",14,Looking to improve my Logical Reasoning skills,0,0,0,1,0,0,0,1,1,0,1,False,False,False,True,0.5,0.0,0.0,1.0,1.0
+96,Delhi,"[54, 140, 126, 141, 105]",20,Looking to improve my Legal Reasoning skills,0,1,1,0,0,0,1,0,0,0,2,False,True,False,False,0.0,0.0,0.0,1.0,0.0
+97,Bangalore,"[144, 141, 66, 102, 51]",21,Looking to improve my Quantitative Techniques skills,0,0,0,0,1,0,0,0,1,0,2,False,False,True,False,0.0,1.0,0.0,0.0,0.5
+98,Mumbai,"[120, 105, 55, 142, 98, 139]",29,Looking to improve my Quantitative Techniques skills,0,0,1,0,0,0,0,1,0,0,0,False,False,False,True,0.5,0.0,0.0,0.5,0.0
+99,Kolkata,"[137, 53, 68, 75, 105]",10,Looking to improve my General Knowledge skills,0,1,0,0,0,1,0,0,0,0,0,False,True,False,False,0.5,0.0,0.0,0.0,0.5
+100,Chennai,"[59, 114, 68, 71, 54, 60]",16,Looking to improve my English Comprehension skills,1,0,0,1,0,0,1,0,0,0,1,False,True,False,False,1.0,0.0,0.0,0.0,0.5
